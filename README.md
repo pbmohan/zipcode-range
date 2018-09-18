@@ -1,2 +1,2 @@
 # zipcode-range
-Optimum Zipcode Range Service
+Optimum Zipcode Range App
